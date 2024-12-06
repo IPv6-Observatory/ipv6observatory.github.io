@@ -5,9 +5,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: The IPv6 Observatory
-#email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The IPv6 Observatory reports on active parts of the IPv6 Internet observed
+  The IPv6 Observatory reports on active regions of the IPv6 Internet observed
   through passive data feeds. 
 url: "https://ipv6observatory.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gigaryte
