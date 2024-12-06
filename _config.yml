@@ -1,0 +1,13 @@
+title:               The IPv6 Observatory
+tagline:             ''
+description:         ''
+
+# About/contact
+author:
+  name:              Erik Rye
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+remote_theme: poole/lanyon
