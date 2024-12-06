@@ -1,2 +1,3 @@
-# ipv6observatory.github.io
-Public website for IPv6 Observatory data
+# IPv6 Observatory
+
+Public website for IPv6 Observatory community data
