@@ -13,4 +13,5 @@ for our files is YYYY-MM-DD-ouis.csv, where that date is the beginning of the
 7-day period at 00:00:00 UTC.
 
 <!-- [](data/ouis/)<br> -->
+[2024-08-24-ouis.csv.bz2](data/ouis/2024-08-24-ouis.csv.bz2)<br>
 [2024-07-07-ouis.csv.bz2](data/ouis/2024-07-07-ouis.csv.bz2)<br>
