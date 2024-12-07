@@ -2,8 +2,6 @@
 layout: home
 ---
 
-## EUI-64 OUI Count Archive
-
 This data set contains the count, OUI, and OUI vendor (as resolved by the IEEE
 OUI registration list) if applicable. Note that some OUIs do not resolve to a
 vendor; we suspect this may be due to devices that use MAC address randomization
