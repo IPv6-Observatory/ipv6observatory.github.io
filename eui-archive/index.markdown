@@ -1,6 +1,9 @@
 ---
-layout: home
+layout: default
+title: EUI-64 OUI Archive
 ---
+
+## EUI-64 OUI Archive Data
 
 This data set contains the count, OUI, and OUI vendor (as resolved by the IEEE
 OUI registration list) if applicable. Note that some OUIs do not resolve to a

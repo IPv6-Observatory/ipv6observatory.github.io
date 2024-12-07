@@ -1,6 +1,9 @@
 ---
-layout: home
+layout: default
+title: Prefix Archive
 ---
+
+## /48 Prefix Archive Data
 
 This data set contains lists of active /48 IPv6 networks we observe passively.
 Each line contains a zero-expanded /48 network (e.g. 2001:0db8:000) with the
