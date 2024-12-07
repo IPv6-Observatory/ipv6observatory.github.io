@@ -49,9 +49,11 @@ addresses to the encompassing /48 network.
 
 This data set contains lists of active /48 IPv6 networks we observe passively.
 Each line contains a zero-expanded /48 network (e.g. 2001:0db8:000) with the
-remaining 96 digits and prefix omitted.  We strive to publish this data on a
+remaining 80 bits and prefix omitted.  We strive to publish this data on a
 weekly basis; the naming convention for our files is `YYYY-MM-DD-48s.txt`, where
 that date is the beginning of the 7-day period at 00:00:00 UTC.
+
+[2024-11-24-48s.txt.bz2](data/prefixes/2024-11-24-48s.txt.bz2)
 
 For older data, see the [archive](/archive/)
 
@@ -65,6 +67,8 @@ randomly-generated MAC address to generate an EUI-64 IPv6 address.  We strive to
 publish this data on a weekly basis; the naming convention for our files is
 `YYYY-MM-DD-ouis.csv`, where that date is the beginning of the 7-day period at
 00:00:00 UTC. 
+
+[2024-11-24-ouis.csv.bz2](data/ouis/2024-11-24-ouis.csv.bz2)
 
 For older data, see the [archive](/eui-archive/)
 
