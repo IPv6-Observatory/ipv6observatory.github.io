@@ -14,6 +14,7 @@ that date is the beginning of the 7-day period at 00:00:00 UTC.
 <!-- [](data/prefixes/)<br> -->
 [2024-11-24-48s.txt.bz2](data/prefixes/2024-11-24-48s.txt.bz2)<br>
 [2024-11-03-48s.txt.bz2](data/prefixes/2024-11-03-48s.txt.bz2)<br>
+[2024-08-18-48s.txt.bz2](data/prefixes/2024-08-18-48s.txt.bz2)<br>
 [2024-08-11-48s.txt.bz2](data/prefixes/2024-08-11-48s.txt.bz2)<br>
 [2024-08-04-48s.txt.bz2](data/prefixes/2024-08-04-48s.txt.bz2)<br>
 [2024-07-28-48s.txt.bz2](data/prefixes/2024-07-28-48s.txt.bz2)<br>
