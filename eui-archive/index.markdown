@@ -13,6 +13,12 @@ address. We strive to publish this data on a weekly basis; the naming convention
 for our files is YYYY-MM-DD-ouis.csv, where that date is the beginning of the
 7-day period at 00:00:00 UTC.
 
-<!-- [](data/ouis/)<br> -->
+<!-- [](/data/ouis/)<br> -->
 [2024-11-24-ouis.csv.bz2](/data/ouis/2024-11-24-ouis.csv.bz2)<br>
+[2024-08-25-ouis.csv.bz2](/data/ouis/2024-08-25-ouis.csv.bz2)<br>
+[2024-08-18-ouis.csv.bz2](/data/ouis/2024-08-18-ouis.csv.bz2)<br>
+[2024-08-11-ouis.csv.bz2](/data/ouis/2024-08-11-ouis.csv.bz2)<br>
+[2024-08-04-ouis.csv.bz2](/data/ouis/2024-08-04-ouis.csv.bz2)<br>
+[2024-07-28-ouis.csv.bz2](/data/ouis/2024-07-28-ouis.csv.bz2)<br>
+[2024-07-21-ouis.csv.bz2](/data/ouis/2024-07-21-ouis.csv.bz2)<br>
 [2024-07-07-ouis.csv.bz2](/data/ouis/2024-07-07-ouis.csv.bz2)<br>
