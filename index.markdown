@@ -61,12 +61,14 @@ For older data, see the [archive](https://data.ipv6observatory.org/data/prefixes
 
 This data set contains the count, OUI, and OUI vendor (as resolved by the [IEEE
 OUI registration list](https://standards-oui.ieee.org/oui.txt)) if applicable.
-Note that some OUIs do not resolve to a vendor; we suspect this may be due to
-devices that use MAC address randomization that are using their
-randomly-generated MAC address to generate an EUI-64 IPv6 address.  We strive to
-publish this data on a weekly basis; the naming convention for our files is
-`YYYY-MM-DD-ouis.csv`, where that date is the beginning of the 7-day period at
-00:00:00 UTC. 
+Note that some OUIs do not resolve to a vendor; we suspect that in some cases
+this may be due to devices that use MAC address randomization that are using
+their randomly-generated MAC address to generate an EUI-64 IPv6 address. In
+others, particularly unassigned OUIs with *many* unique embedded MAC address
+observations, we surmise that a vendor is simply using an allocation without it
+being registered to them.  We strive to publish this data on a weekly basis; the
+naming convention for our files is `YYYY-MM-DD-ouis.csv`, where that date is the
+beginning of the 7-day period at 00:00:00 UTC. 
 
 [2024-11-24-ouis.csv.bz2](https://ipv6observatory.org/data/ouis/2024-11-24-ouis.csv.bz2)
 
