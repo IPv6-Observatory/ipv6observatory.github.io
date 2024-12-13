@@ -109,7 +109,6 @@ countries as of December 2024.
 ### Vantage Point Map
 
 <!-- Code from d3-graph-gallery.com -->
-<!DOCTYPE html>
 <meta charset="utf-8">
 
 <!-- Load d3.js -->
@@ -142,8 +141,8 @@ var colorScale = d3.scaleThreshold()
 
 // Load external data and boot
 d3.queue()
-  .defer(d3.json, "https://data.ipv6observatory.org/data/vps/world.geojson")
-  .defer(d3.csv, "https://data.ipv6observatory.org/data/vps/world_vps.csv", function(d) { data.set(d.code, +d.pop); })
+  .defer(d3.json, "https://ipv6observatory.org/vps/world.geojson")
+  .defer(d3.csv, "https://ipv6observatory.org/vps/world_vps.csv", function(d) { data.set(d.code, +d.pop); })
   .await(ready);
 
 function ready(error, topo) {
