@@ -74,6 +74,135 @@ beginning of the 7-day period at 00:00:00 UTC.
 
 For older data, see the [archive](https://data.ipv6observatory.org/data/ouis/)
 
+## Vantage Points
+
+To ensure a broad geographic distribution, we operate 30 vantage points in 22
+countries as of December 2024.
+
+### Vantage Point Locations 
+
+| Country          | Vantage Points |
+|------------------|----------------|
+|  Australia :australia: |  1  | 
+|  Brazil :brazil: | 1              |
+|  Cyprus :cyprus: | 1              |
+|  Estonia :estonia: | 1              |
+|  France :france: | 1              |
+|  Germany :germany: | 1              |
+|  Hong Kong :hong_kong: | 2              |
+|  Hungary :hungary: | 2              |
+|  India :india: | 1              |
+|  Israel :israel: | 2              |
+|  Kazakhstan :kazakhstan: | 2              |
+|  Poland :poland: | 1              |
+|  Serbia :serbia: | 2              |
+|  Singapore :singapore: | 1              |
+|  South Africa :south_africa: | 1              |
+|  South Korea :kr: | 1              |
+|  Spain :spain: | 1              |
+|  Türkiye :turkey: | 1              |
+|  Ukraine :ukraine: | 2              |
+|  United Arab Emirates :united_arab_emirates: | 2              |
+|  United Kingdom :uk: | 1              |
+|  United States :us: | 2              |
+
+### Vantage Point Map
+
+<!-- Code from d3-graph-gallery.com -->
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<!-- Load d3.js -->
+<script src="https://d3js.org/d3.v4.js"></script>
+<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+<script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
+
+<!-- Create an element where the map will take place -->
+<svg id="world-vp-map" width="800" height="300"></svg>
+
+<script>
+
+// The svg
+var svg = d3.select("svg"),
+  width = +svg.attr("width"),
+  height = +svg.attr("height");
+
+// Map and projection
+var path = d3.geoPath();
+var projection = d3.geoMercator()
+  .scale(70)
+  .center([0,20])
+  .translate([width / 2, height / 2]);
+
+// Data and color scale
+var data = d3.map();
+var colorScale = d3.scaleThreshold()
+  .domain([1, 2, 3])
+  .range(d3.schemeGreens[3]);
+
+// Load external data and boot
+d3.queue()
+  .defer(d3.json, "https://data.ipv6observatory.org/data/vps/world.geojson")
+  .defer(d3.csv, "https://data.ipv6observatory.org/data/vps/world_vps.csv", function(d) { data.set(d.code, +d.pop); })
+  .await(ready);
+
+function ready(error, topo) {
+
+  // Create a tooltip element
+  var tooltip = d3.select("body").append("div")
+    .attr("class", "tooltip")
+    .style("position", "absolute")
+    .style("visibility", "hidden")
+    .style("background", "white")
+    .style("padding", "5px")
+    .style("border", "1px solid #ccc")
+    .style("border-radius", "4px")
+    .style("box-shadow", "0 0 10px rgba(0, 0, 0, 0.1)");
+
+  let mouseOver = function(d) {
+ 
+     tooltip.style("visibility", "visible")
+      .html(d.properties.name + "<br>VPs: " + (data.get(d.id) || 0).toLocaleString());
+
+    d3.selectAll(".Country")
+      .transition()
+      .duration(200)
+      .style("opacity", .5)
+  }
+
+  let mouseLeave = function(d) {
+    tooltip.style("visibility", "hidden");
+
+    d3.selectAll(".Country")
+      .transition()
+      .duration(200)
+      .style("opacity", .8)
+  }
+
+  // Draw the map
+  svg.append("g")
+    .selectAll("path")
+    .data(topo.features)
+    .enter()
+    .append("path")
+      // draw each country
+      .attr("d", d3.geoPath()
+        .projection(projection)
+      )
+      // set the color of each country
+      .attr("fill", function (d) {
+        d.total = data.get(d.id) || 0;
+        return colorScale(d.total);
+      })
+      .style("stroke", "transparent")
+      .attr("class", function(d){ return "Country" } )
+      .style("opacity", .8)
+      .on("mouseover", mouseOver )
+      .on("mouseleave", mouseLeave )
+    }
+
+</script>
+
 ## Attribution
 
 To cite this project, please use reference for the SIGCOMM 2023 paper:
