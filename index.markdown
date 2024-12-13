@@ -99,8 +99,8 @@ countries as of December 2024.
 |  Singapore :singapore: | 1              |
 |  South Africa :south_africa: | 1              |
 |  South Korea :kr: | 1              |
-|  Spain :spain: | 1              |
-|  Türkiye :turkey: | 1              |
+|  Spain :es: | 1              |
+|  Türkiye :tr: | 1              |
 |  Ukraine :ukraine: | 2              |
 |  United Arab Emirates :united_arab_emirates: | 2              |
 |  United Kingdom :uk: | 1              |
