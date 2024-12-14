@@ -94,6 +94,7 @@ countries as of December 2024.
 |  India :india: | 1              |
 |  Israel :israel: | 2              |
 |  Kazakhstan :kazakhstan: | 2              |
+|  Norway :norway: | 1              |
 |  Poland :poland: | 1              |
 |  Serbia :serbia: | 2              |
 |  Singapore :singapore: | 1              |
