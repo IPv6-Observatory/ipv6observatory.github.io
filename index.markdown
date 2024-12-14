@@ -82,7 +82,7 @@ countries as of December 2024.
 ### Vantage Point Locations 
 
 | Country          | Vantage Points |
-|------------------|----------------|
+| :---:            | :-------------:|
 |  Australia :australia: |  1  | 
 |  Brazil :brazil: | 1              |
 |  Cyprus :cyprus: | 1              |
