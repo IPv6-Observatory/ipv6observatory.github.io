@@ -93,7 +93,7 @@ countries as of December 2024.
 |  Hungary :hungary: | 2              |
 |  India :india: | 2              |
 |  Israel :israel: | 2              |
-|  Japan :japan: | 1              |
+|  Japan :jp: | 1              |
 |  Kazakhstan :kazakhstan: | 2              |
 |  Norway :norway: | 1              |
 |  Poland :poland: | 1              |
