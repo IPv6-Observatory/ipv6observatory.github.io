@@ -76,7 +76,7 @@ For older data, see the [archive](https://data.ipv6observatory.org/data/ouis/)
 
 ## Vantage Points
 
-To ensure a broad geographic distribution, we operate 31 vantage points in 23
+To ensure a broad geographic distribution, we operate 33 vantage points in 24
 countries as of December 2024.
 
 ### Vantage Point Locations 
@@ -91,8 +91,9 @@ countries as of December 2024.
 |  Germany :de: | 1              |
 |  Hong Kong :hong_kong: | 2              |
 |  Hungary :hungary: | 2              |
-|  India :india: | 1              |
+|  India :india: | 2              |
 |  Israel :israel: | 2              |
+|  Japan :japan: | 1              |
 |  Kazakhstan :kazakhstan: | 2              |
 |  Norway :norway: | 1              |
 |  Poland :poland: | 1              |
