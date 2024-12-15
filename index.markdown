@@ -76,7 +76,7 @@ For older data, see the [archive](https://data.ipv6observatory.org/data/ouis/)
 
 ## Vantage Points
 
-To ensure a broad geographic distribution, we operate 33 vantage points in 24
+To ensure a broad geographic distribution, we operate 34 vantage points in 25
 countries as of December 2024.
 
 ### Vantage Point Locations 
