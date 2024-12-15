@@ -97,6 +97,7 @@ countries as of December 2024.
 |  Kazakhstan :kazakhstan: | 2              |
 |  Norway :norway: | 1              |
 |  Poland :poland: | 1              |
+|  Russia :ru: | 1              |
 |  Serbia :serbia: | 2              |
 |  Singapore :singapore: | 1              |
 |  South Africa :south_africa: | 1              |
