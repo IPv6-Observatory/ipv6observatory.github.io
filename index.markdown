@@ -53,7 +53,7 @@ remaining 80 bits and prefix omitted.  We strive to publish this data on a
 weekly basis; the naming convention for our files is `YYYY-MM-DD-48s.txt`, where
 that date is the beginning of the 7-day period at 00:00:00 UTC.
 
-[2024-12-15-48s.txt.bz2](https://data.ipv6observatory.org/data/prefixes/2024-12-15-48s.txt.bz2)
+[2024-12-22-48s.txt.bz2](https://data.ipv6observatory.org/data/prefixes/2024-12-22-48s.txt.bz2)
 
 For older data, see the [archive](https://data.ipv6observatory.org/data/prefixes/)
 
@@ -70,7 +70,7 @@ being registered to them.  We strive to publish this data on a weekly basis; the
 naming convention for our files is `YYYY-MM-DD-ouis.csv`, where that date is the
 beginning of the 7-day period at 00:00:00 UTC. 
 
-[2024-12-15-ouis.csv.bz2](https://data.ipv6observatory.org/data/ouis/2024-12-15-ouis.csv.bz2)
+[2024-12-22-ouis.csv.bz2](https://data.ipv6observatory.org/data/ouis/2024-12-22-ouis.csv.bz2)
 
 For older data, see the [archive](https://data.ipv6observatory.org/data/ouis/)
 
