@@ -95,7 +95,6 @@ countries as of December 2024.
 |  Israel :israel: | 2              |
 |  Japan :jp: | 1              |
 |  Kazakhstan :kazakhstan: | 2              |
-|  Norway :norway: | 1              |
 |  Poland :poland: | 1              |
 |  Russia :ru: | 1              |
 |  Serbia :serbia: | 2              |
@@ -103,6 +102,7 @@ countries as of December 2024.
 |  South Africa :south_africa: | 1              |
 |  South Korea :kr: | 1              |
 |  Spain :es: | 1              |
+|  Sweden :sweden: | 1              |
 |  Türkiye :tr: | 1              |
 |  Ukraine :ukraine: | 2              |
 |  United Arab Emirates :united_arab_emirates: | 2              |
