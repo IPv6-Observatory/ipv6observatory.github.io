@@ -53,9 +53,10 @@ remaining 80 bits and prefix omitted.  We strive to publish this data on a
 weekly basis; the naming convention for our files is `YYYY-MM-DD-48s.txt`, where
 that date is the beginning of the 7-day period at 00:00:00 UTC.
 
-[2024-12-29-48s.txt.bz2](https://data.ipv6observatory.org/data/prefixes/2024-12-29-48s.txt.bz2)
+[2024-12-29-48s.txt.bz2](https://data.ipv6observatory.org/current/2024-12-29-48s.txt.bz2)
 
-For older data, see the [archive](https://data.ipv6observatory.org/data/prefixes/)
+For older data, first [register](#archive-data), then see the
+[archive](https://data.ipv6observatory.org/data/prefixes/).
 
 ### EUI-64 OUIs
 
@@ -70,21 +71,23 @@ being registered to them.  We strive to publish this data on a weekly basis; the
 naming convention for our files is `YYYY-MM-DD-ouis.csv`, where that date is the
 beginning of the 7-day period at 00:00:00 UTC. 
 
-[2024-12-29-ouis.csv.bz2](https://data.ipv6observatory.org/data/ouis/2024-12-29-ouis.csv.bz2)
+[2024-12-29-ouis.csv.bz2](https://data.ipv6observatory.org/current/2024-12-29-ouis.csv.bz2)
 
-For older data, see the [archive](https://data.ipv6observatory.org/data/ouis/)
+For older data, first [register](#archive-data), then see the
+[archive](https://data.ipv6observatory.org/data/ouis/).
 
-## Vantage Points
+## NTP Vantage Points
 
-To ensure a broad geographic distribution, we operate 34 vantage points in 25
-countries as of December 2024.
+To ensure a broad geographic distribution, we operate 35 vantage points in 26
+countries as of January 2025.
 
-### Vantage Point Locations 
+### NTP Vantage Point Locations 
 
 | Country          | Vantage Points |
 | :---:            | :-------------:|
 |  Australia :australia: |  1  | 
 |  Brazil :brazil: | 1              |
+|  Bulgaria :bulgaria: | 1              |
 |  Cyprus :cyprus: | 1              |
 |  Estonia :estonia: | 1              |
 |  France :fr: | 1              |
@@ -108,6 +111,19 @@ countries as of December 2024.
 |  United Arab Emirates :united_arab_emirates: | 2              |
 |  United Kingdom :uk: | 1              |
 |  United States :us: | 2              |
+
+## Archive Data
+
+To obtain our historical data, we ask that you send us a brief
+[email](mailto:rye@umd.edu) to register. We use this information to track usage
+statistics.
+
+We currently maintain the following datasets:
+
+| Dataset | Periodicity | Start | 
+| :-----: | :---------: | :---: |
+| NTP /48s  | Weekly    | July 2024 |
+| NTP EUI-64 OUI Counts | Weekly    | July 2024 |
 
 ## Attribution
 
