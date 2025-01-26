@@ -78,7 +78,7 @@ For older data, first [register](#archive-data), then see the
 
 ## NTP Vantage Points
 
-To ensure a broad geographic distribution, we operate 35 vantage points in 26
+To ensure a broad geographic distribution, we operate 36 vantage points in 26
 countries as of January 2025.
 
 ### NTP Vantage Point Locations 
@@ -91,7 +91,7 @@ countries as of January 2025.
 |  Cyprus :cyprus: | 1              |
 |  Estonia :estonia: | 1              |
 |  France :fr: | 1              |
-|  Germany :de: | 1              |
+|  Germany :de: | 2              |
 |  Hong Kong :hong_kong: | 2              |
 |  Hungary :hungary: | 2              |
 |  India :india: | 2              |
