@@ -53,7 +53,7 @@ remaining 80 bits and prefix omitted.  We strive to publish this data on a
 weekly basis; the naming convention for our files is `YYYY-MM-DD-48s.txt`, where
 that date is the beginning of the 7-day period at 00:00:00 UTC.
 
-[2025-01-26-48s.txt.bz2](https://data.ipv6observatory.org/current/2025-01-26-48s.txt.bz2)
+[2025-02-02-48s.txt.bz2](https://data.ipv6observatory.org/current/2025-02-02-48s.txt.bz2)
 
 For older data, first [register](#archive-data), then see the
 [archive](https://data.ipv6observatory.org/data/prefixes/).
@@ -71,15 +71,15 @@ being registered to them.  We strive to publish this data on a weekly basis; the
 naming convention for our files is `YYYY-MM-DD-ouis.csv`, where that date is the
 beginning of the 7-day period at 00:00:00 UTC. 
 
-[2025-01-26-ouis.csv.bz2](https://data.ipv6observatory.org/current/2025-01-26-ouis.csv.bz2)
+[2025-02-02-ouis.csv.bz2](https://data.ipv6observatory.org/current/2025-02-02-ouis.csv.bz2)
 
 For older data, first [register](#archive-data), then see the
 [archive](https://data.ipv6observatory.org/data/ouis/).
 
 ## NTP Vantage Points
 
-To ensure a broad geographic distribution, we operate 36 vantage points in 26
-countries as of January 2025.
+To ensure a broad geographic distribution, we operate 37 vantage points in 27
+countries as of February 2025.
 
 ### NTP Vantage Point Locations 
 
@@ -88,6 +88,7 @@ countries as of January 2025.
 |  Australia :australia: |  1  | 
 |  Brazil :brazil: | 1              |
 |  Bulgaria :bulgaria: | 1              |
+|  Chile :chile: | 1              |
 |  Cyprus :cyprus: | 1              |
 |  Estonia :estonia: | 1              |
 |  France :fr: | 1              |
