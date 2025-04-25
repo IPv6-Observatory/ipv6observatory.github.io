@@ -53,7 +53,7 @@ remaining 80 bits and prefix omitted.  We strive to publish this data on a
 weekly basis; the naming convention for our files is `YYYY-MM-DD-48s.txt`, where
 that date is the beginning of the 7-day period at 00:00:00 UTC.
 
-[2025-04-06-48s.txt.bz2](https://data.ipv6observatory.org/current/2025-04-06-48s.txt.bz2)
+[2025-04-13-48s.txt.bz2](https://data.ipv6observatory.org/current/2025-04-13-48s.txt.bz2)
 
 For older data, first [register](#archive-data), then see the
 [archive](https://data.ipv6observatory.org/data/prefixes/).
@@ -71,14 +71,14 @@ being registered to them.  We strive to publish this data on a weekly basis; the
 naming convention for our files is `YYYY-MM-DD-ouis.csv`, where that date is the
 beginning of the 7-day period at 00:00:00 UTC. 
 
-[2025-04-06-ouis.csv.bz2](https://data.ipv6observatory.org/current/2025-04-06-ouis.csv.bz2)
+[2025-04-13-ouis.csv.bz2](https://data.ipv6observatory.org/current/2025-04-13-ouis.csv.bz2)
 
 For older data, first [register](#archive-data), then see the
 [archive](https://data.ipv6observatory.org/data/ouis/).
 
 ## NTP Vantage Points
 
-To ensure a broad geographic distribution, we operate 38 vantage points in 28
+To ensure a broad geographic distribution, we operate 39 vantage points in 29
 countries as of April 2025.
 
 ### NTP Vantage Point Locations 
@@ -100,6 +100,7 @@ countries as of April 2025.
 |  Israel :israel: | 2              |
 |  Japan :jp: | 1              |
 |  Kazakhstan :kazakhstan: | 2              |
+|  Mexico :mexico: | 1              |
 |  Poland :poland: | 1              |
 |  Russia :ru: | 1              |
 |  Serbia :serbia: | 2              |
