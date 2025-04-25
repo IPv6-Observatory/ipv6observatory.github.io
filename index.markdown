@@ -78,7 +78,7 @@ For older data, first [register](#archive-data), then see the
 
 ## NTP Vantage Points
 
-To ensure a broad geographic distribution, we operate 39 vantage points in 29
+To ensure a broad geographic distribution, we operate 40 vantage points in 29
 countries as of April 2025.
 
 ### NTP Vantage Point Locations 
