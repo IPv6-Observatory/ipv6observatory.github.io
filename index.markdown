@@ -5,6 +5,10 @@
 layout: home
 ---
 
+{:refdef: style="text-align: center;"}
+![ipv6observatory](ipv6-observatory.png){: width="350" .center}
+{: refdef}
+
 
 The IPv6 Observatory is a community-oriented research effort that provides data
 about active IPv6 networks. 
