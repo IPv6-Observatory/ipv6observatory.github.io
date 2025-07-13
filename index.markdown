@@ -82,8 +82,8 @@ For older data, first [register](#archive-data), then see the
 
 ## NTP Vantage Points
 
-To ensure a broad geographic distribution, we operate 40 vantage points in 29
-countries as of April 2025.
+To ensure a broad geographic distribution, we operate 41 vantage points in 30
+countries as of July 2025.
 
 ### NTP Vantage Point Locations 
 
@@ -105,6 +105,7 @@ countries as of April 2025.
 |  Japan :jp: | 1              |
 |  Kazakhstan :kazakhstan: | 2              |
 |  Mexico :mexico: | 1              |
+|  Norway :norway: | 1              |
 |  Poland :poland: | 1              |
 |  Russia :ru: | 1              |
 |  Serbia :serbia: | 2              |
