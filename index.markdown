@@ -82,7 +82,7 @@ For older data, first [register](#archive-data), then see the
 
 ## NTP Vantage Points
 
-To ensure a broad geographic distribution, we operate 41 vantage points in 30
+To ensure broad geographic distribution, we operate 41 vantage points in 30
 countries as of July 2025.
 
 ### NTP Vantage Point Locations 
@@ -171,5 +171,5 @@ community? We'd love to partner with you!
 
 ## Contact
 
-[Erik Rye](https://erikrye.com) (University of Maryland): rye at umd.edu<br>
+[Erik Rye](https://erikrye.com) (Johns Hopkins University): rye at jhu.edu<br>
 [Dave Levin](https://www.cs.umd.edu/~dml) (University of Maryland): dml at cs.umd.edu
