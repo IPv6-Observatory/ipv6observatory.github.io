@@ -82,8 +82,8 @@ For older data, first [register](#archive-data), then see the
 
 ## NTP Vantage Points
 
-To ensure broad geographic distribution, we operate 41 vantage points in 30
-countries as of July 2025.
+To ensure broad geographic distribution, we operate 42 vantage points in 30
+countries as of September 2025.
 
 ### NTP Vantage Point Locations 
 
@@ -91,7 +91,7 @@ countries as of July 2025.
 | :---:            | :-------------:|
 |  Australia :australia: |  1  | 
 |  Brazil :brazil: | 1              |
-|  Bulgaria :bulgaria: | 1              |
+|  Bulgaria :bulgaria: | 2              |
 |  Canada :canada: | 2              |
 |  Chile :chile: | 1              |
 |  Cyprus :cyprus: | 1              |
