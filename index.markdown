@@ -24,6 +24,14 @@ address discovery. Our methodology and some results are described in the 2023
 SIGCOMM paper [*IPv6 Hitlists at Scale: Be Careful What You Wish
 For*](https://dl.acm.org/doi/pdf/10.1145/3603269.3604829).
 
+### Ethics
+
+If you are a researcher, please follow the same guidelines we received: do not
+scan back the exact /128 addresses you learn from the NTP Pool, and publish only
+the /48 prefixes.  The community needs methods to convert /48s into scannable
+addresses -- but if we go against what the NTP Pool maintainers have requested
+then we may be putting a valuable IPv6 resource at risk.
+
 ## Privacy
 
 As opposed to their IPv4 siblings, IPv6 addresses are (potentially)
