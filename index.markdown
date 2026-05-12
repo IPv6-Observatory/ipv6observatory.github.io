@@ -26,6 +26,17 @@ For*](https://dl.acm.org/doi/pdf/10.1145/3603269.3604829).
 
 ### Ethics
 
+We spoke with the NTP Pool operators and they agreed to let us do this so long
+as we (1) Never scan the addresses we learn (we never did), (2) Only publish the
+first 48 bits of the addresses we learn -- which we do at
+https://lnkd.in/ezBuhdX3 and (3) You can use the /48 (but only the /48) to guide
+scanning.
+
+Since then, other researchers have started running NTP Pool servers like our
+paper describes but they are scanning the addresses they learn. This goes
+against the NTP Pool's wishes -- I am concerned that if this continues to happen
+then the Pool will no longer be open to researchers.
+
 If you are a researcher, please follow the same guidelines we received: do not
 scan back the exact /128 addresses you learn from the NTP Pool, and publish only
 the /48 prefixes.  The community needs methods to convert /48s into scannable
@@ -65,7 +76,7 @@ remaining 80 bits and prefix omitted.  We strive to publish this data on a
 weekly basis; the naming convention for our files is `YYYY-MM-DD-48s.txt`, where
 that date is the beginning of the 7-day period at 00:00:00 UTC.
 
-[2026-03-01-48s.txt.bz2](https://data.ipv6observatory.org/current/2026-03-01-48s.txt.bz2)
+[2026-04-12-48s.txt.bz2](https://data.ipv6observatory.org/current/2026-04-12-48s.txt.bz2)
 
 For older data, first [register](#archive-data), then see the
 [archive](https://data.ipv6observatory.org/data/prefixes/).
@@ -83,7 +94,7 @@ being registered to them.  We strive to publish this data on a weekly basis; the
 naming convention for our files is `YYYY-MM-DD-ouis.csv`, where that date is the
 beginning of the 7-day period at 00:00:00 UTC. 
 
-[2026-03-01-ouis.csv.bz2](https://data.ipv6observatory.org/current/2026-03-01-ouis.csv.bz2)
+[2026-04-12-ouis.csv.bz2](https://data.ipv6observatory.org/current/2026-04-12-ouis.csv.bz2)
 
 For older data, first [register](#archive-data), then see the
 [archive](https://data.ipv6observatory.org/data/ouis/).
