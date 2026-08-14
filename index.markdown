@@ -26,22 +26,9 @@ For*](https://dl.acm.org/doi/pdf/10.1145/3603269.3604829).
 
 ### Ethics
 
-We spoke with the NTP Pool operators and they agreed to let us do this so long
-as we (1) Never scan the addresses we learn (we never did), (2) Only publish the
-first 48 bits of the addresses we learn -- which we do at
-https://lnkd.in/ezBuhdX3 and (3) You can use the /48 (but only the /48) to guide
-scanning.
-
-Since then, other researchers have started running NTP Pool servers like our
-paper describes but they are scanning the addresses they learn. This goes
-against the NTP Pool's wishes -- I am concerned that if this continues to happen
-then the Pool will no longer be open to researchers.
-
-If you are a researcher, please follow the same guidelines we received: do not
-scan back the exact /128 addresses you learn from the NTP Pool, and publish only
-the /48 prefixes.  The community needs methods to convert /48s into scannable
-addresses -- but if we go against what the NTP Pool maintainers have requested
-then we may be putting a valuable IPv6 resource at risk.
+We never use our vantage points to source scans. The addresses we observe arrive
+in NTP queries that clients send us of their own accord, and we do not scan back
+at them &mdash; not from these servers, and not from anywhere else.
 
 ## Privacy
 
@@ -101,8 +88,8 @@ For older data, first [register](#archive-data), then see the
 
 ## NTP Vantage Points
 
-To ensure broad geographic distribution, we operate 42 vantage points in 30
-countries as of September 2025.
+To ensure broad geographic distribution, we operate 44 vantage points in 32
+countries as of August 2026.
 
 ### NTP Vantage Point Locations 
 
@@ -123,6 +110,7 @@ countries as of September 2025.
 |  Israel :israel: | 2              |
 |  Japan :jp: | 1              |
 |  Kazakhstan :kazakhstan: | 2              |
+|  Malaysia :malaysia: | 1              |
 |  Mexico :mexico: | 1              |
 |  Norway :norway: | 1              |
 |  Poland :poland: | 1              |
@@ -133,6 +121,7 @@ countries as of September 2025.
 |  South Korea :kr: | 1              |
 |  Spain :es: | 1              |
 |  Sweden :sweden: | 1              |
+|  Thailand :thailand: | 1              |
 |  Türkiye :tr: | 1              |
 |  Ukraine :ukraine: | 2              |
 |  United Arab Emirates :united_arab_emirates: | 2              |
@@ -142,7 +131,7 @@ countries as of September 2025.
 ## Archive Data
 
 To obtain our historical data, we ask that you send us a brief
-[email](mailto:rye@umd.edu) to register. We use this information to track usage
+[email](mailto:rye@jhu.edu) to register. We use this information to track usage
 statistics.
 
 We currently maintain the following datasets:
@@ -165,10 +154,22 @@ To cite this project, please use reference for the SIGCOMM 2023 paper:
 }
 ```
 
+## Open Source and Open Data
+
+The IPv6 Observatory is an open project.
+
+This website is released under the [MIT
+License](https://opensource.org/license/mit) at
+[github.com/IPv6-Observatory](https://github.com/IPv6-Observatory), and our data
+sets are published under a [Creative Commons Attribution
+4.0](https://creativecommons.org/licenses/by/4.0/) license. Use them,
+redistribute them, and build on them; we ask only that you [cite the
+project](#attribution).
+
 ## Contribute
 
 Do you have sources of active IPv6 networks you would like to share with the
-community? We'd love to partner with you! 
+community? We'd love to partner with you!
 
 ## FAQ
 
