@@ -171,6 +171,15 @@ project](#attribution).
 Do you have sources of active IPv6 networks you would like to share with the
 community? We'd love to partner with you!
 
+## Acknowledgements
+
+We thank [is\*hosting](https://ishosting.com/) for generously providing support
+for our network of globally-distributed VPSes. 
+
+{:refdef: style="text-align: center;"}
+![ishosting](is-hosting.jpg){: width="350" .center}
+{: refdef}
+
 ## FAQ
 
 1. "How is this different from the IPv6 Hitlist?"
