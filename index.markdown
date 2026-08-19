@@ -88,14 +88,16 @@ For older data, first [register](#archive-data), then see the
 
 ## NTP Vantage Points
 
-To ensure broad geographic distribution, we operate 44 vantage points in 32
+To ensure broad geographic distribution, we operate 46 vantage points in 34
 countries as of August 2026.
 
 ### NTP Vantage Point Locations 
 
 | Country          | Vantage Points |
 | :---:            | :-------------:|
+|  Argentina :argentina: |  1  | 
 |  Australia :australia: |  1  | 
+|  Austria :austria: |  1  | 
 |  Brazil :brazil: | 1              |
 |  Bulgaria :bulgaria: | 2              |
 |  Canada :canada: | 2              |
