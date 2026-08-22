@@ -102,6 +102,7 @@ countries as of August 2026.
 |  Bulgaria :bulgaria: | 2              |
 |  Canada :canada: | 2              |
 |  Chile :chile: | 1              |
+|  Colombia :colombia: | 1              |
 |  Cyprus :cyprus: | 1              |
 |  Estonia :estonia: | 1              |
 |  France :fr: | 1              |
