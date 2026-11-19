@@ -88,46 +88,54 @@ For older data, first [register](#archive-data), then see the
 
 ## NTP Vantage Points
 
-To ensure broad geographic distribution, we operate 46 vantage points in 34
-countries as of August 2026.
+To ensure broad geographic distribution, we operate 47 vantage points in 43
+countries as of November 2026.
 
 ### NTP Vantage Point Locations 
 
 | Country          | Vantage Points |
 | :---:            | :-------------:|
-|  Argentina :argentina: |  1  | 
-|  Australia :australia: |  1  | 
-|  Austria :austria: |  1  | 
+|  Argentina :argentina: |  1  |
+|  Australia :australia: |  1  |
+|  Austria :austria: |  1  |
+|  Belgium :belgium: | 1              |
 |  Brazil :brazil: | 1              |
-|  Bulgaria :bulgaria: | 2              |
-|  Canada :canada: | 2              |
+|  Bulgaria :bulgaria: | 1              |
+|  Canada :canada: | 1              |
 |  Chile :chile: | 1              |
 |  Colombia :colombia: | 1              |
 |  Cyprus :cyprus: | 1              |
+|  Czechia :czech_republic: | 1              |
+|  Denmark :denmark: | 1              |
 |  Estonia :estonia: | 1              |
+|  Finland :finland: | 1              |
 |  France :fr: | 1              |
-|  Germany :de: | 2              |
-|  Hong Kong :hong_kong: | 2              |
-|  Hungary :hungary: | 2              |
+|  Germany :de: | 3              |
+|  Hong Kong :hong_kong: | 1              |
+|  Hungary :hungary: | 1              |
 |  India :india: | 2              |
-|  Israel :israel: | 2              |
+|  Ireland :ireland: | 1              |
+|  Israel :israel: | 1              |
+|  Italy :it: | 1              |
 |  Japan :jp: | 1              |
-|  Kazakhstan :kazakhstan: | 2              |
+|  Kazakhstan :kazakhstan: | 1              |
 |  Malaysia :malaysia: | 1              |
 |  Mexico :mexico: | 1              |
+|  Netherlands :netherlands: | 1              |
 |  Norway :norway: | 1              |
 |  Poland :poland: | 1              |
 |  Russia :ru: | 1              |
-|  Serbia :serbia: | 2              |
+|  Serbia :serbia: | 1              |
 |  Singapore :singapore: | 1              |
 |  South Africa :south_africa: | 1              |
 |  South Korea :kr: | 1              |
 |  Spain :es: | 1              |
 |  Sweden :sweden: | 1              |
+|  Switzerland :switzerland: | 1              |
 |  Thailand :thailand: | 1              |
 |  Türkiye :tr: | 1              |
-|  Ukraine :ukraine: | 2              |
-|  United Arab Emirates :united_arab_emirates: | 2              |
+|  Ukraine :ukraine: | 1              |
+|  United Arab Emirates :united_arab_emirates: | 1              |
 |  United Kingdom :uk: | 1              |
 |  United States :us: | 2              |
 
