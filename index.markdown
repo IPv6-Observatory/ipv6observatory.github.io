@@ -88,7 +88,7 @@ For older data, first [register](#archive-data), then see the
 
 ## NTP Vantage Points
 
-To ensure broad geographic distribution, we operate 69 vantage points in 43
+To ensure broad geographic distribution, we operate 71 vantage points in 45
 countries as of November 2026.
 
 ### NTP Vantage Point Locations 
@@ -123,7 +123,9 @@ countries as of November 2026.
 |  Mexico :mexico: | 1              |
 |  Netherlands :netherlands: | 2              |
 |  Norway :norway: | 2              |
+|  Peru :peru: | 1              |
 |  Poland :poland: | 1              |
+|  Romania :romania: | 1              |
 |  Russia :ru: | 1              |
 |  Serbia :serbia: | 2              |
 |  Singapore :singapore: | 1              |
